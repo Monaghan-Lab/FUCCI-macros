@@ -1,0 +1,11 @@
+*.*
+.DS_Store
+.Rhistory
+.ipynb_checkpoints
+!*.gitignore
+!*.md
+!*.jpg
+!*.png
+!*.ipynb
+!*.txt
+!*.ijm
